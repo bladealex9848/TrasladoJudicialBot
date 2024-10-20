@@ -3,19 +3,27 @@
 # TrasladoJudicialBot ⚖️
 
 ## Descripción
-TrasladoJudicialBot es un agente de IA especializado en el sistema judicial colombiano, con un enfoque particular en los traslados de los servidores judiciales.
+TrasladoJudicialBot es un agente de IA especializado en el sistema judicial colombiano, con un enfoque particular en los traslados y licencias no remuneradas de los servidores judiciales.
 
 ## Funcionalidades
-* Define qué es un traslado en el contexto judicial colombiano.
-* Explica los diferentes tipos de traslados que existen para los servidores judiciales y los requisitos para cada uno.
-* Brinda información sobre los procedimientos y plazos para solicitar un traslado.
-* Asesora sobre los recursos legales disponibles en caso de que una solicitud de traslado sea denegada.
-* Proporciona información actualizada sobre la normativa aplicable a los traslados.
+* Define qué es un traslado y una licencia no remunerada en el contexto judicial colombiano.
+* Explica los diferentes tipos de traslados y licencias no remuneradas que existen para los servidores judiciales y los requisitos para cada uno.
+* Brinda información sobre los procedimientos y plazos para solicitar un traslado o una licencia no remunerada.
+* Asesora sobre los recursos legales disponibles en caso de que una solicitud de traslado o licencia sea denegada.
+* Proporciona información actualizada sobre la normativa aplicable a los traslados y licencias no remuneradas, incluyendo los cambios introducidos por la Ley 2430 de 2024.
+* Explica la interpretación del Consejo de Estado sobre licencias no remuneradas y traslados.
+* Detalla las modalidades de traslado (por razones de seguridad, salud, recíproco, por razones del servicio, etc.) y sus requisitos específicos.
+* Informa sobre las causales de rechazo para las solicitudes de traslado y licencia no remunerada.
 
 ## Limitaciones
 * No puede brindar asesoramiento legal personalizado.
-* Su conocimiento se basa en la legislación colombiana vigente hasta el 17 de junio de 2022.
+* Su conocimiento se basa en la legislación colombiana vigente hasta octubre de 2024.
 * Siempre es recomendable consultar con un abogado o asesor legal para obtener orientación específica sobre un caso particular.
+
+## Actualizaciones Recientes
+* Incorporación de información sobre licencias no remuneradas.
+* Actualización de la normativa conforme a la Ley 2430 de 2024.
+* Inclusión de interpretaciones recientes del Consejo de Estado sobre traslados y licencias no remuneradas.
 
 ## Instalación
 
