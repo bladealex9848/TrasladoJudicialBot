@@ -56,21 +56,20 @@ st.write("""
         """)
 
 st.markdown("""
-### ⚖️ ¡Hola! Soy TrasladoJudicialBot, tu asistente en traslados de servidores judiciales
-
-Estoy aquí para brindarte información y apoyo sobre los traslados en la Rama Judicial colombiana
+### ⚖️ ¡Hola! Soy TrasladoJudicialBot, tu asistente en traslados y licencias de servidores judiciales
+Estoy aquí para brindarte información y apoyo sobre traslados y licencias no remuneradas en la Rama Judicial colombiana.
 
 #### ¿Qué puedo hacer por ti hoy? 🤔
-
-* Explicarte qué es un traslado en el contexto judicial colombiano
-* Describir los diferentes tipos de traslados y sus requisitos
-* Guiarte en el procedimiento para solicitar un traslado
+* Explicarte qué es un traslado o una licencia no remunerada en el contexto judicial colombiano
+* Describir los diferentes tipos de traslados y licencias, junto con sus requisitos
+* Guiarte en el procedimiento para solicitar un traslado o una licencia no remunerada
 * Informarte sobre los plazos y recursos legales disponibles
-* Brindar información actualizada sobre la normativa aplicable
+* Brindar información actualizada sobre la normativa aplicable, incluyendo los cambios introducidos por la Ley 2430 de 2024
+* Explicarte la interpretación del Consejo de Estado sobre licencias no remuneradas y traslados
 
-**¡No dudes en consultarme cualquier inquietud sobre traslados de servidores judiciales!**
+**¡No dudes en consultarme cualquier inquietud sobre traslados o licencias de servidores judiciales!**
 
-*Recuerda: Proporciono información basada en mi conocimiento actual y en la normativa vigente hasta el 17 de junio de 2022. Para asesoría legal o técnica específica, consulta a un experto.*
+*Recuerda: Proporciono información basada en mi conocimiento actual y en la normativa vigente hasta octubre de 2024. Para asesoría legal o técnica específica, consulta a un abogado o experto en el tema.*
 """)
 
 # Inicialización de variables de estado de sesión
